@@ -1,0 +1,6 @@
+{
+  "name": "Orbit Smart - SaaS & CRM de Gestão",
+  "description": "Landing Page de captação de leads e CRM integrado para gestão de sistemas ERP, CRM e Apps sob medida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
